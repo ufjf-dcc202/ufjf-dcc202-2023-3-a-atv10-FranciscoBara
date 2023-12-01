@@ -15,6 +15,7 @@ console.log(maria, joao);
 deJoaoParaMaria();
 
 
+
 maria = getMaria();
 joao = getJoao();
 console.log(maria, joao);
